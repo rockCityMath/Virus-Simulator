@@ -1,0 +1,7 @@
+Population:pop1.txt
+Region:region1.csv
+
+Infected Area:9
+Infectious Period:3
+Contact Rate:3
+Number of Vaccines:25500
